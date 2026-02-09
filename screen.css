@@ -7,13 +7,14 @@ body{
     font-family: 'Inclusive Sans', sans-serif;
 }
 h1{
-    font-size: 128px;
+    font-size: 96px;
     background-color: #D3AF37;
     color: black;
-    padding: 15px;
+    padding: 0;
     margin: 0;
 }
 h2{
+    text-align: center;
     font-size: 64px;
     margin: 0 auto;
     margin-bottom: 20px;
@@ -22,6 +23,15 @@ h2{
      1px -1px 0 #ffffff50,  /* Top-right shadow */
     -1px  1px 0 #ffffff50,  /* Bottom-left shadow */
      1px  1px 0 #ffffff50;  /* Bottom-right shadow */
+}
+h3{
+    text-align: center;
+    font-size: 64px;
+    color: white;
+    margin: 0 auto;
+}
+p{
+    font-size: 32px;
 }
 
 img {

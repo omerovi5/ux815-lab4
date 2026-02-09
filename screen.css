@@ -7,20 +7,21 @@ body{
     font-family: 'Inclusive Sans', sans-serif;
 }
 h1{
-    font-size: 96;
+    font-size: 128px;
     background-color: #D3AF37;
     color: black;
     padding: 15px;
     margin: 0;
 }
 h2{
+    font-size: 64px;
     margin: 0 auto;
     margin-bottom: 20px;
     text-shadow: 
-    -1px -1px 0 #ffffff83,  /* Top-left shadow */
-     1px -1px 0 #ffffff83,  /* Top-right shadow */
-    -1px  1px 0 #ffffff83,  /* Bottom-left shadow */
-     1px  1px 0 #ffffff83;  /* Bottom-right shadow */
+    -1px -1px 0 #ffffff50,  /* Top-left shadow */
+     1px -1px 0 #ffffff50,  /* Top-right shadow */
+    -1px  1px 0 #ffffff50,  /* Bottom-left shadow */
+     1px  1px 0 #ffffff50;  /* Bottom-right shadow */
 }
 
 img {
@@ -30,8 +31,7 @@ img {
   margin-right: 20px;
   margin-bottom: 20px;
 }
-html, body {
+html {
   border: 3px solid black;
   margin: 0;
-  padding-bottom: 400px;
 }

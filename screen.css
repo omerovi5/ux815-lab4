@@ -16,6 +16,5 @@ img {
 html, body {
   border: 3px solid black;
   margin: 0;
-  padding: 0; 
-  padding-bottom: 100px;
+  padding-bottom: 400px;
 }

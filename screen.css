@@ -42,7 +42,8 @@ p{
 .textblock{
     width: 800px;
     height: 200px;
-    margin-left: 400px;
+    margin-left: 450px;
+    padding-bottom: 20px;
 }
 img {
   width: 450px;

@@ -42,12 +42,14 @@ p{
 .textblock{
     width: 800px;
     height: 200px;
+    margin-left: 20px;
 }
 img {
   width: 450px;
   height: 250px;
   float: left;
   margin-right: 20px;
+  padding-top: 20px;
 }
 html {
   border: 5px solid black;

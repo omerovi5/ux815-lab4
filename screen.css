@@ -13,3 +13,8 @@ img {
   margin-right: 20px;
   margin-bottom: 20px;
 }
+html, body {
+  border: 5px solid black;
+  margin: 0; /* Removes default browser margin */
+  padding: 0; /* Ensures content starts at the edge of the border area */
+}

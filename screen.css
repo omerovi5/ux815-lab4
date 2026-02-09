@@ -2,3 +2,7 @@
 a.active {
     font-weight: bold;
 }
+body{
+    background: #37323E;
+    font-family: 'Inclusive Sans', sans-serif;
+}

@@ -14,7 +14,8 @@ img {
   margin-bottom: 20px;
 }
 html, body {
-  border: 5px solid black;
-  margin: 0; /* Removes default browser margin */
-  padding: 0; /* Ensures content starts at the edge of the border area */
+  border: 3px solid black;
+  margin: 0;
+  padding: 0; 
+  padding-bottom: 100px;
 }

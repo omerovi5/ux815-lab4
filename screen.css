@@ -27,7 +27,7 @@ h2{
 div{
     width: 1258px;
     height: 295px;
-    margin-left: 500px;
+    margin-left: 600px;
     margin-right: 400px;
 }
 h3{
@@ -37,7 +37,7 @@ h3{
 }
 p{
     font-size: 32px;
-    text-align: center;
+    text-align: left;
 }
 .textblock{
     width: 800px;

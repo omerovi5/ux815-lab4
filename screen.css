@@ -27,7 +27,8 @@ h2{
 div{
     width: 1258px;
     height: 295px;
-    margin-left: 277px;
+    margin: 0 auto;
+    margin-left: 300px;
 }
 h3{
     text-align: center;
@@ -49,5 +50,5 @@ img {
 html {
   border: 3px solid black;
   margin: 0;
-  padding-bottom: 400px;
+  padding-bottom: 600px;
 }

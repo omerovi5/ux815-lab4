@@ -39,7 +39,10 @@ p{
     font-size: 32px;
     text-align: center;
 }
-
+.textblock{
+    width: 800px;
+    height: 200px;
+}
 img {
   width: 450px;
   height: 250px;
@@ -47,7 +50,7 @@ img {
   margin-right: 20px;
 }
 html {
-  border: 3px solid black;
+  border: 5px solid black;
   margin: 0;
   padding-bottom: 450px;
 }
